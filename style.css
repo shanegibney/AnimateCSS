@@ -1,0 +1,15 @@
+h1
+{
+  margin:0;
+  width: 100%;
+  margin-left: auto;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  top: 50%;
+}
+
+.text
+{
+color: #ECC872;
+}
