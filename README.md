@@ -2,6 +2,8 @@
 
 [Animate.css](https://daneden.github.io/animate.css/)
 
-Each time the page is opened random animation is chosen.
+Every 8 seconds a random animation is chosen.
+
+The previous class is removed and a new class added to the element.
 
 [gh-pages demo](http://shanegibney.github.io/AnimateCSS/)
